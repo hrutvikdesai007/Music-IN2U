@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="bluessongstyle.xsl"?>
+<information>
+   <song>
+      <name>Name</name>
+      <artist>Artist</artist>
+      <genre>Genre</genre>
+   </song>
+   <song>
+      <name>Stairway to Heaven</name>
+      <artist>Led Zeppelin</artist>
+      <genre>Rock</genre>
+   </song>
+   <song>
+      <name>Sweet Child O' Mine</name>
+      <artist>Guns N' Roses</artist>
+      <genre>Rock</genre>
+   </song>
+   <song>
+      <name>Hotel California</name>
+      <artist>Eagles</artist>
+      <genre>Rock</genre>
+   </song>
+   <song>
+      <name>Bohemian Rhapsody</name>
+      <artist>Queen</artist>
+      <genre>Rock</genre>
+   </song>
+   <song>
+      <name>Nothing Else Matters</name>
+      <artist>Metallica</artist>
+      <genre>Rock</genre>
+   </song>
+   <song>
+      <name>Stan</name>
+      <artist>Eminem</artist>
+      <genre>Hip Hop</genre>
+   </song>
+   <song>
+      <name>Changes</name>
+      <artist>Tupac</artist>
+      <genre>Hip Hop</genre>
+   </song>
+   <song>
+      <name>Renegade</name>
+      <artist>Jay Z</artist>
+      <genre>Hip Hop</genre>
+   </song>
+   <song>
+      <name>No Problem</name>
+      <artist>Chance the Rapper</artist>
+      <genre>Hip Hop</genre>
+   </song>
+   <song>
+      <name>Sing About Me</name>
+      <artist>Kendrick Lamar</artist>
+      <genre>Hip Hop</genre>
+   </song>
+   <song>
+      <name>The Thrill Has Gone</name>
+      <artist>B.B. King</artist>
+      <genre>Blues</genre>
+   </song>
+   <song>
+      <name>Everyday I Have The Blues</name>
+      <artist>B.B. King</artist>
+      <genre>Blues</genre>
+   </song>
+   <song>
+      <name>Stop Breaking Down</name>
+      <artist>Rolling Stones</artist>
+      <genre>Blues</genre>
+   </song>
+   <song>
+      <name>Key To The Highway</name>
+      <artist>Eric Clapton</artist>
+      <genre>Blues</genre>
+   </song>
+   <song>
+      <name>Born Under A Bad Sign</name>
+      <artist>Albert King</artist>
+      <genre>Blues</genre>
+   </song>
+   <song>
+      <name>Ring Of Fire</name>
+      <artist>Johnny Cash</artist>
+      <genre>Country</genre>
+   </song>
+   <song>
+      <name>Hurt</name>
+      <artist>Johnny Cash</artist>
+      <genre>Country</genre>
+   </song>
+   <song>
+      <name>Honeybee</name>
+      <artist>Blake Shelton</artist>
+      <genre>Country</genre>
+   </song>
+   <song>
+      <name>Somebody Like You</name>
+      <artist>Keith Urban</artist>
+      <genre>Country</genre>
+   </song>
+   <song>
+      <name>Die A Happy Man</name>
+      <artist>Thomas Rhett</artist>
+      <genre>Country</genre>
+   </song>
+   <song>
+      <name>No Diggity</name>
+      <artist>Blackstreet</artist>
+      <genre>Rhythm And Blues</genre>
+   </song>
+   <song>
+      <name>Redbone</name>
+      <artist>Childish Gambino</artist>
+      <genre>Rhythm And Blues</genre>
+   </song>
+   <song>
+      <name>Confessions Part II</name>
+      <artist>Usher</artist>
+      <genre>Rhythm And Blues</genre>
+   </song>
+   <song>
+      <name>End Of The Road</name>
+      <artist>Boyz II Men</artist>
+      <genre>Rhythm And Blues</genre>
+   </song>
+   <song>
+      <name>That's The Way Love Goes</name>
+      <artist>Janet Jackson</artist>
+      <genre>Rhythm And Blues</genre>
+   </song>
+</information>

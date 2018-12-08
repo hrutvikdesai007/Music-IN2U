@@ -1,0 +1,11 @@
+body {
+  min-height: 2000px;
+  padding-top: 70px;
+  color: #5a5a5a;
+}
+
+.carousel ,.slide
+{
+	
+	width:100%;
+}
